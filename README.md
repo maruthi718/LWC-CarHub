@@ -9,6 +9,6 @@ div align-"center">
     <br />
     <br />
     <h2>Record Page</h2>
-    <img src="images/Record Page 1" width="400">
-    <img src="images/Record Page 2" width="400">
+    <img src="images/Record Page 1.png" width="400">
+    <img src="images/Record Page 2.png" width="400">
 </div>
