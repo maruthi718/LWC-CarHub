@@ -2,7 +2,7 @@
 
 ## My implementation of the 'Car Hub' Project
 
-div align-"center">
+<div align-"center">
     <h2>Explore Page</h2>
     <img src="images/Explorer 1.png" width="400">
     <img src="images/Explorer 1.png" width="400">
